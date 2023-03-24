@@ -1,0 +1,14 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./main.js"
+  },
+  "dependencies": {
+    "@prisma/client": "4.11.0"
+  },
+  "devDependencies": {
+    "prisma": "4.11.0"
+  }
+}
